@@ -33,9 +33,9 @@ global.language = indonesia //change indonesia to english if you don't understan
 // Other
 global.botname = "Alphabot-Mdོ" //namabot kalian
 global.ownername = "Ayush" //nama kalian
-global.myweb = "https://s.id/zeeoneofc" //bebas asal jan hapus
+global.myweb = "https://chat.whatsapp.com/KIXuScQTqZG0Dklp9YpNVV" //bebas asal jan hapus
 global.youtube = "https://youtube.com/@ayushmuzik1037" //bebas asal jan hapus
-global.myweb2 = "https://s.id/zeeoneofc" //bebas
+global.myweb2 = "https://chat.whatsapp.com/KIXuScQTqZG0Dklp9YpNVV" //bebas
 global.email = "ak5286286@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
